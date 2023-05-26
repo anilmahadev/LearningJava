@@ -1,6 +1,6 @@
 //Primitive Types
 
-public class StudentData {
+public class StudentDataPrimitiveTypes {
 
     public static void main(String[] args) {
 
